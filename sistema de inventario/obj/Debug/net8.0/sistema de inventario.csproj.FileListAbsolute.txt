@@ -1,0 +1,14 @@
+C:\Users\Danny\source\repos\sistema de inventario\sistema de inventario\obj\Debug\net8.0\sistema de inventario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Danny\source\repos\sistema de inventario\sistema de inventario\obj\Debug\net8.0\sistema de inventario.AssemblyInfoInputs.cache
+C:\Users\Danny\source\repos\sistema de inventario\sistema de inventario\obj\Debug\net8.0\sistema de inventario.AssemblyInfo.cs
+C:\Users\Danny\source\repos\sistema de inventario\sistema de inventario\obj\Debug\net8.0\sistema de inventario.csproj.CoreCompileInputs.cache
+C:\Users\Danny\source\repos\sistema de inventario\sistema de inventario\bin\Debug\net8.0\sistema de inventario.exe
+C:\Users\Danny\source\repos\sistema de inventario\sistema de inventario\bin\Debug\net8.0\sistema de inventario.deps.json
+C:\Users\Danny\source\repos\sistema de inventario\sistema de inventario\bin\Debug\net8.0\sistema de inventario.runtimeconfig.json
+C:\Users\Danny\source\repos\sistema de inventario\sistema de inventario\bin\Debug\net8.0\sistema de inventario.dll
+C:\Users\Danny\source\repos\sistema de inventario\sistema de inventario\bin\Debug\net8.0\sistema de inventario.pdb
+C:\Users\Danny\source\repos\sistema de inventario\sistema de inventario\obj\Debug\net8.0\sistema de inventario.dll
+C:\Users\Danny\source\repos\sistema de inventario\sistema de inventario\obj\Debug\net8.0\refint\sistema de inventario.dll
+C:\Users\Danny\source\repos\sistema de inventario\sistema de inventario\obj\Debug\net8.0\sistema de inventario.pdb
+C:\Users\Danny\source\repos\sistema de inventario\sistema de inventario\obj\Debug\net8.0\sistema de inventario.genruntimeconfig.cache
+C:\Users\Danny\source\repos\sistema de inventario\sistema de inventario\obj\Debug\net8.0\ref\sistema de inventario.dll

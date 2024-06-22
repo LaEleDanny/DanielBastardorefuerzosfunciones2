@@ -1,0 +1,14 @@
+C:\Users\Danny\source\repos\buscadordenumerosprimos\buscadordenumerosprimos\bin\Debug\net8.0\buscadordenumerosprimos.exe
+C:\Users\Danny\source\repos\buscadordenumerosprimos\buscadordenumerosprimos\bin\Debug\net8.0\buscadordenumerosprimos.deps.json
+C:\Users\Danny\source\repos\buscadordenumerosprimos\buscadordenumerosprimos\bin\Debug\net8.0\buscadordenumerosprimos.runtimeconfig.json
+C:\Users\Danny\source\repos\buscadordenumerosprimos\buscadordenumerosprimos\bin\Debug\net8.0\buscadordenumerosprimos.dll
+C:\Users\Danny\source\repos\buscadordenumerosprimos\buscadordenumerosprimos\bin\Debug\net8.0\buscadordenumerosprimos.pdb
+C:\Users\Danny\source\repos\buscadordenumerosprimos\buscadordenumerosprimos\obj\Debug\net8.0\buscadordenumerosprimos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Danny\source\repos\buscadordenumerosprimos\buscadordenumerosprimos\obj\Debug\net8.0\buscadordenumerosprimos.AssemblyInfoInputs.cache
+C:\Users\Danny\source\repos\buscadordenumerosprimos\buscadordenumerosprimos\obj\Debug\net8.0\buscadordenumerosprimos.AssemblyInfo.cs
+C:\Users\Danny\source\repos\buscadordenumerosprimos\buscadordenumerosprimos\obj\Debug\net8.0\buscadordenumerosprimos.csproj.CoreCompileInputs.cache
+C:\Users\Danny\source\repos\buscadordenumerosprimos\buscadordenumerosprimos\obj\Debug\net8.0\buscadordenumerosprimos.dll
+C:\Users\Danny\source\repos\buscadordenumerosprimos\buscadordenumerosprimos\obj\Debug\net8.0\refint\buscadordenumerosprimos.dll
+C:\Users\Danny\source\repos\buscadordenumerosprimos\buscadordenumerosprimos\obj\Debug\net8.0\buscadordenumerosprimos.pdb
+C:\Users\Danny\source\repos\buscadordenumerosprimos\buscadordenumerosprimos\obj\Debug\net8.0\buscadordenumerosprimos.genruntimeconfig.cache
+C:\Users\Danny\source\repos\buscadordenumerosprimos\buscadordenumerosprimos\obj\Debug\net8.0\ref\buscadordenumerosprimos.dll

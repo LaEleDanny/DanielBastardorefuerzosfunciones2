@@ -1,0 +1,14 @@
+C:\Users\Danny\source\repos\lanzador de dados\lanzador de dados\bin\Debug\net8.0\lanzador de dados.exe
+C:\Users\Danny\source\repos\lanzador de dados\lanzador de dados\bin\Debug\net8.0\lanzador de dados.deps.json
+C:\Users\Danny\source\repos\lanzador de dados\lanzador de dados\bin\Debug\net8.0\lanzador de dados.runtimeconfig.json
+C:\Users\Danny\source\repos\lanzador de dados\lanzador de dados\bin\Debug\net8.0\lanzador de dados.dll
+C:\Users\Danny\source\repos\lanzador de dados\lanzador de dados\bin\Debug\net8.0\lanzador de dados.pdb
+C:\Users\Danny\source\repos\lanzador de dados\lanzador de dados\obj\Debug\net8.0\lanzador de dados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Danny\source\repos\lanzador de dados\lanzador de dados\obj\Debug\net8.0\lanzador de dados.AssemblyInfoInputs.cache
+C:\Users\Danny\source\repos\lanzador de dados\lanzador de dados\obj\Debug\net8.0\lanzador de dados.AssemblyInfo.cs
+C:\Users\Danny\source\repos\lanzador de dados\lanzador de dados\obj\Debug\net8.0\lanzador de dados.csproj.CoreCompileInputs.cache
+C:\Users\Danny\source\repos\lanzador de dados\lanzador de dados\obj\Debug\net8.0\lanzador de dados.dll
+C:\Users\Danny\source\repos\lanzador de dados\lanzador de dados\obj\Debug\net8.0\refint\lanzador de dados.dll
+C:\Users\Danny\source\repos\lanzador de dados\lanzador de dados\obj\Debug\net8.0\lanzador de dados.pdb
+C:\Users\Danny\source\repos\lanzador de dados\lanzador de dados\obj\Debug\net8.0\lanzador de dados.genruntimeconfig.cache
+C:\Users\Danny\source\repos\lanzador de dados\lanzador de dados\obj\Debug\net8.0\ref\lanzador de dados.dll
